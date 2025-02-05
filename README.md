@@ -13,4 +13,3 @@ Thank you for wanting to add people to the list, simply make a pull request or i
 
 ## Other
 
-### Version 0.1.1
