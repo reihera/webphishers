@@ -7,6 +7,8 @@ Thank you for wanting to add people to the list, simply make a pull request or i
 ## Rude/Bigots/Nazis
 - Tedious | No Steam profile link available 
 - Mort | No Steam profile link available 
+- Tenderfoot | No Steam profile link available 
+- Boop | No Steam profile link available
 
 ## Cheaters
 - boog*{} | No Steam profile link available 
