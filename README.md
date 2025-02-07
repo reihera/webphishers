@@ -12,6 +12,9 @@ Thank you for wanting to add people to the list, simply make a pull request or i
 - trentsaints10 | [Steam Profile](https://steamcommunity.com/profiles/76561198104512455 "Steam Profile")
 - proxxer | No Steam profile link available 
 - ArgoAlways | [Steam Profile](https://steamcommunity.com/id/ArgoAlways "Steam Profile")
+- Jake | No Steam profile link available
+- Papa Hemy | No Steam profile link available
+- Rappy | No Steam profile link available
 ## Cheaters
 - boog*{} | No Steam profile link available 
 
