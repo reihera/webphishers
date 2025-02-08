@@ -1,4 +1,4 @@
-# Changelog version 0.1.7-1
+# Changelog version 0.1.9
 - 0.1.0 Initial commit, added 3 names
 - 0.1.1 Fixed formatting
 - 0.1.2 Fixed more formatting
@@ -8,3 +8,6 @@
 - 0.1.6 Added 2 names
 - 0.1.7 Added one name and updated the raw.
 - 0.1.7-1 updated the changelog cause I forgor
+- 0.1.7-2 Removed 1 name (false report)
+- 0.1.8 Added templates for reporting users on the repo
+- 0.1.9 Added removal form to the readme
